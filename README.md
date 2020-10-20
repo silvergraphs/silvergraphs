@@ -6,7 +6,7 @@ Hola 😄
 </p>
 
 <p align="center">
-Me llamo Bruno, tengo 20 años, Me gusta la programación, videojuegos, también el moviemaking como hobbie, estoy estudiando Ing. en Informática y actualmente estoy en búsqueda de mi primer empleo. Me atrae el stack front end, y aspiro a ser un Full Stack Developer. Considero que también me desenvuelvo bien en muchas otras ramas y sino lo aprendo.
+Me llamo Bruno, tengo 21 años, Me gusta la programación, videojuegos, también el moviemaking como hobbie, estoy estudiando Ing. en Informática y actualmente estoy en búsqueda de mi primer empleo. Me atrae el stack front end, y aspiro a ser un Full Stack Developer. Considero que también me desenvuelvo bien en muchas otras ramas y sino lo aprendo.
 </p>
 
 
