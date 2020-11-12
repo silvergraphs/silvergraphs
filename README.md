@@ -22,13 +22,16 @@ Me llamo Bruno, tengo 21 años, Me gusta la programación, videojuegos, también
 
 <strong>Mis proyectos 🛠 </strong>
 
+- [weatherphp](https://github.com/silvergraphs/weatherphp) - App para consultar el clima de cualquier ciudad
+- [serverlist](https://github.com/silvergraphs/serverlist) - Una app CRUD que muestra informacion sobre servidores
 - [weatherapp-api](https://github.com/silvergraphs/weatherapp-api) - App que muestra el clima de una ciudad deseada dinámicamente
 - [storeapp-api](https://github.com/silvergraphs/storeapp-api) - API del proyecto storeapp
-- [storeapp](https://github.com/silvergraphs/storeapp) - Proyecto de práctica que imita una tienda de aplicaciones
+- [storeapp](https://github.com/silvergraphs/storeapp) - Proyecto de práctica Full Stack que imita una tienda de aplicaciones
 - [ejercfinalmtbonus](https://github.com/silvergraphs/ejercfinalmt) - Bonus de resolucion de challenge para entrevista laboral MerlionTechs
 - [ejercfinalmt](https://github.com/silvergraphs/ejercfinalmt) - Resolucion de challenge para entrevista laboral MerlionTechs
 - [olimpiadasinet](https://github.com/silvergraphs/olimpiadasinet) - Problematica que nos dieron en las Olimpiadas de Programacion del INET
 - [almafuerte](https://github.com/silvergraphs/almafuerte) - Sitio web para mi colegio secundario
+
 
 
 ### Contacto 📧 
